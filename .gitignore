@@ -1,0 +1,23 @@
+# Dependencias
+/node_modules
+
+# Archivos generados por el entorno de desarrollo
+/.pnp
+/.pnp.js
+/.cache
+/dist
+/build
+
+# Archivos de configuración
+.env
+
+# Logs y archivos temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Archivos de respaldo
+*.bak
+*.swp
+*~
